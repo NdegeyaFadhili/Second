@@ -14,7 +14,7 @@ include 'connect.php';
    <a href="admin.php"><img src="logo.png" alt="logo" class="logo"></a> 
     <div class="box">
         <h1 class="h1" >
-            Sign in as Admin
+            Sign in as Adminstrator not a user
         </h1>
     <form action="#" method="post">
     <div class="container">
