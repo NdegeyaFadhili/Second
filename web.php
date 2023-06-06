@@ -9,6 +9,7 @@
 <body>
     <form action="#" method="post">
         <div class="container">
+            <label>Name</label>
           <input type="text">
         </div>
     </form>
